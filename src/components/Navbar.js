@@ -16,7 +16,9 @@ const Navbar = () => {
   return (
     <StyledNavbar>
       <StyledList>
-        <StyledListElem>Memer</StyledListElem>
+        <a href="https://memer-aviralchandra.netlify.app/">
+          <StyledListElem>Memer</StyledListElem>
+        </a>
       </StyledList>
     </StyledNavbar>
   );
